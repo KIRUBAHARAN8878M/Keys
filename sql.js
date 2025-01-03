@@ -169,6 +169,7 @@ GROUP BY column_name
 HAVING COUNT(*) > 1;
 15. What are SQL Transactions?
 A transaction is a sequence of SQL operations treated as a single unit.
+    
 Commands:
 
 BEGIN TRANSACTION: Starts a transaction.
